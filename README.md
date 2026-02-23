@@ -1,6 +1,6 @@
 # CI/CD for Data Pipelines (GitHub Actions)
 
-![CI](https://github.com/yazdan999/ci-cd-for-data-pipelines/actions/workflows/ci.yml/badge.svg)
+[![CI](https://github.com/yazdan999/ci-cd-for-data-pipelines/actions/workflows/ci.yml/badge.svg)](https://github.com/yazdan999/ci-cd-for-data-pipelines/actions/workflows/ci.yml)
 
 This repository provides CI/CD templates and patterns for data engineering projects, with a focus on:
 
