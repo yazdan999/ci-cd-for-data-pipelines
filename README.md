@@ -12,20 +12,23 @@ This repository provides CI/CD templates and patterns for data engineering proje
 
 ## Repository Structure
 
-```
+```text
 ci-cd-for-data-pipelines/
 │
 ├── .github/
-│ └── workflows/
-│ ├── ci.yml
-│ └── cd.yml
+│   └── workflows/
+│       ├── ci.yml
+│       └── cd.yml
 │
 ├── scripts/
-│ ├── run_tests.sh
-│ └── validate_repo.sh
+│   ├── run_tests.sh
+│   └── validate_repo.sh
 │
 ├── docs/
-│ └── pipeline_standards.md
+│   └── pipeline_standards.md
+│
+├── tests/
+│   └── test_smoke.py
 │
 └── requirements-dev.txt
 ```
